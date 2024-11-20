@@ -1,7 +1,7 @@
 Olá 👋🏼 Meu nome é Jamily Aleixo </br>
 Desenvolvedora Backend
 
-Sou uma Desenvolvedora apaixonada por tecnologia, sou graduada em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software 🎓.
+Sou apaixonada por tecnologia, o que me levou a me formar em Análise e Desenvolvimento de Sistemas e, atualmente, a cursar Engenharia de Software 🎓
 
 Tenho experiência em desenvolvimento fullstack, com foco principal em backend. Meu trabalho se concentra em APIs e Web Services, especialmente no ecossistema C#/.NET e Go.
 

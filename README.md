@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá 👋🏼 Meu nome é Jamily Aleixo </br>
+Desenvolvedora Backend
 
-<!--
-**JamilyAleixo/JamilyAleixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma Desenvolvedora apaixonada por tecnologia, sou graduada em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software 🎓.
 
-Here are some ideas to get you started:
+Tenho experiência em desenvolvimento fullstack, com foco principal em backend. Meu trabalho se concentra em APIs e Web Services, especialmente no ecossistema C#/.NET e Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Atualmente estou aprofundando meus conhecimentos em C#, Go, e bancos de dados (SQL server) </br>
+🌍 Baseada em Magé - RJ</br>
+✉️ Entre em contato comigo em jamilyaleixo@outlook.com
+
+Habilidades </br>
+  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white" />
+  <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927" />
+  <img align="center" alt="go" src="https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white" />
